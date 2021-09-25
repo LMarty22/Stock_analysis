@@ -1,11 +1,11 @@
-#Green Stocks – VBA Challenge
+# Green Stocks – VBA Challenge
 
 
-##Overview of Project:
+## Overview of Project:
 
 Steve, our client, is looking to analyze data for this parent’s investment. The purpose of this project is to analyze stock data to show the different stock trends year over year and the returns each stock yields. Original VBA macro ran data for twelve stocks, refactoring the VBA macro is necessary in order for the VBA code to run smoothly and more time efficiently if there will be hundreds of stocks to analyze. 
 
-##Results
+## Results
 
 ![All Stocks 2017 ](https://user-images.githubusercontent.com/89940569/134753177-143916fb-0c99-499c-861c-775a801e253e.png)
 ![All Stocks 2018 ](https://user-images.githubusercontent.com/89940569/134753180-631cc938-483c-4940-8541-8376495f433b.png)
@@ -32,7 +32,7 @@ Refactored VBA Macro
 <img width="372" alt="VBA_Challenge_2018" src="https://user-images.githubusercontent.com/89940569/134753231-2c0b9eef-d9c6-42fe-bf97-832a19ba65f4.png">
 
 
-##Summary
+## Summary
 
 There are many advantage to refactoring VBA Macro data such as decreasing run time for a macro with a large dataset and revising the macro to perform more efficiently. Refactoring allows for macros to be run more effectively and efficiently. When analyzing large data sets, refactored macros are able to “multi-task” in order to produce the same results in a shorter amount of time, it helps eliminate overlapping of loops over the same lines of data. Disadvantage of refactoring data is that it may lead to extensive debugging. Debugging may be necessary in order to fix any macro composition which may no longer run smoothly once modification to the original macros are made.  It is wise to revise written VBA macro to be as efficient as possible, however the macro must keep its integrity and ability to achieve the desired analytical result. 
 
