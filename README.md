@@ -8,9 +8,11 @@ Steve, our client, is looking to analyze data for this parent’s investment. Th
 
 ##Results
 
-!(https://github.com/LMarty22/Stock_analysis/blob/main/All%20Stocks%202017%20-%20Original.png)
+![All Stocks 2017 ](https://user-images.githubusercontent.com/89940569/134753045-faa06393-dd04-4820-a823-a51178944787.png)
 
-!(https://github.com/LMarty22/Stock_analysis/blob/main/All%20Stocks%202018%20-%20Original.png)
+![All Stocks 2018 ](https://user-images.githubusercontent.com/89940569/134753048-8b28d56d-74d1-4310-a064-38af5b40eafc.png)
+
+
 
 When evaluating stock performance years 2017 to 2018, one can identify that eleven of the twelve stocks in the year 2017 yield a positive return, however in 2018 there are only two stocks which yielded a positive return. Based on the year 2017, there are many profitable investment choices, stocks highlighted in the green represent the positive increase from the beginning of the year to last day of the year. In 2018 we see a significant downshift in stock return, highlighted in red, ten of the twelve stocks were negative yielding. Based on the data gathered one can conclude that all stocks decreased in value, with exception of “RUN”. “RUN” is the only stock analyzed which demonstrated year over year growth. 
 
